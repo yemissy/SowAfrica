@@ -67,12 +67,19 @@
    ### B. Type/Platform: Native iOS App
    ### C. Client-Side: iOS(Swift) 
    ### D. Server-Side/Backend: Django/Python. Alternative, MBaas(Google’s Firebase)
-   - Native App Because: 	     TradeOffs
-     - Better Performance		Expensive
-     - Better Features			Doesn’t target all users
+   - Native App Because: 	     
+     - Better Performance		
+     - Better Features			
      - Better User Experience
-   - MBaas Because						 Not The Besy 
-     - Backend services are pretty much done and automated         Because it is Pricy. As app scales, you pay more. 
+   - Trade Offs
+     - Expensive
+     - Doesn’t target all users
+   - MBaas Because						 
+     - Backend services are pretty much done and automated        
+   - Not The Best Because
+     - Because it is Pricy. As app scales, you pay more. 
+## Wireframes and Sketches:
+
 		      
 
 
