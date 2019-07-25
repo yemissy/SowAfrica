@@ -62,5 +62,20 @@
      - As a non-profit with limited exposure to technology, I would like to easily be able to use the app, so I can keep on using the platform
      - As a non profit, I would like to be able to request for donation and support
 
+## Technical Specification/Tech Stack:
+   ### A. First Version: Mobile App
+   ### B. Type/Platform: Native iOS App
+   ### C. Client-Side: iOS(Swift) 
+   ### D. Server-Side/Backend: Django/Python. Alternative, MBaas(Google’s Firebase)
+   - Native App Because: 	     TradeOffs
+     - Better Performance		Expensive
+     - Better Features			Doesn’t target all users
+     - Better User Experience
+   - MBaas Because						 Not The Besy 
+     - Backend services are pretty much done and automated         Because it is Pricy. As app scales, you pay more. 
+		      
+
+
+
 		
 
