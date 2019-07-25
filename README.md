@@ -12,7 +12,7 @@
    ### B. Business Model:
    Still in Progress
    ### C. Component Included in App: For now(07/24/2019)
-   A Login/Sign up Screen with description of app
-   A User Activity feed screen
-   A settings screen
+   - A Login/Sign up Screen with description of app
+   - A User Activity feed screen
+   - A settings screen
 
