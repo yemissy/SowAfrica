@@ -17,10 +17,10 @@
    - A settings screen
 
 ## Text Narrative/ User Story:
-   ### Who
+   ### A. Who
    - Small Non-profit Organizations
    - Individuals from different parts of the world.
-   ### What: Functionalities they expect
+   ### B. What: Functionalities they expect
    - Organizations:
       - Creating Account 
       - Managing Profiles
@@ -34,7 +34,7 @@
       - Supporting Organizations of Interest
       - Getting updates on Organizations activities online/physically
       - Getting donation reports from organizations
-  ### Why: Values Users Get from Activities
+  ### C. Why: Values Users Get from Activities
   - Organizations: (In order of what)
       - Getting traction and exposure
       - Control of profile
@@ -48,5 +48,19 @@
       - Taxes/Making an Impact
       - Encouragement to keep supporting
       - Satisfaction
+  ### Stories Examples/Scenerios
+  - Individual Users: (Not Organizations)
+     - As an Individual User I would like to have a landing page explaining all the features of the platform, so I am motivated to register
+     - As an Individual User, I would like the freedom to select organizations I follow based on my altruistic interests, to help me be more motivated to give
+     - As an Individual User, I would like to see the latest news, updates of the organizations I follow to help me stay up to date with their work and profile
+     - As an Individual User, I would like to get annual reports(Donations) and works of the organizations I follow and interact with, so I will be more motivated to keep supporting
+  - Non-Profit Organizations: 
+     - As a non-profit, I would like to have a landing page explaining all the features of the platform, so I am motivated to register
+     - As a non-profit, I would like a Video explaining the benefit of the app to my organization
+     - As a non-profit, I would like to update information about my account/organization to so as to give supporters best update
+     - As a non-profit, I would like to see other non-profit so I can collaborate with them
+     - As a non-profit with limited exposure to technology, I would like to easily be able to use the app, so I can keep on using the platform
+     - As a non profit, I would like to be able to request for donation and support
+
 		
 
