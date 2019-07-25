@@ -16,3 +16,37 @@
    - A User Activity feed screen
    - A settings screen
 
+## Text Narrative/ User Story:
+   ### Who
+   - Small Non-profit Organizations
+   - Individuals from different parts of the world.
+   ### What: Functionalities they expect
+   - Organizations:
+      - Creating Account 
+      - Managing Profiles
+      - Interacting with other organizations
+      - Understanding how the app works
+      - Requesting Donation/Investment/Support
+      - Seeing traction metrics and analysis
+      - Sharing annual report
+  -  Individuals:
+      - Understanding how app works
+      - Supporting Organizations of Interest
+      - Getting updates on Organizations activities online/physically
+      - Getting donation reports from organizations
+  ### Why: Values Users Get from Activities
+  - Organizations: (In order of what)
+      - Getting traction and exposure
+      - Control of profile
+      - Support and Collaboration
+      - Seamless User Experience, Simplicity and Ease
+      - Increased Funding
+      - Improvement
+      - Gain more support
+   - Individuals: (In order of what)
+      - Seamless User Experience, Simplicity and Ease
+      - Taxes/Making an Impact
+      - Encouragement to keep supporting
+      - Satisfaction
+		
+
